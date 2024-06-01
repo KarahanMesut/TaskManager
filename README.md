@@ -52,3 +52,21 @@ The Task Manager Application is a comprehensive tool designed to manage tasks ef
 
 1. **Fork the Repository**
 2. **Create a Feature Branch**
+
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Görev Yöneticisi Uygulaması
+## Açıklama
+
+Görev Yöneticisi Uygulaması, görevleri etkili bir şekilde yönetmek için tasarlanmış kapsamlı bir araçtır. Kullanıcıların görev oluşturmasına, güncellemesine, silmesine ve diğer kullanıcılarla paylaşmasına olanak tanır. Ayrıca, kullanıcılar görevlere yorum ekleyebilir, görevleri etiketler veya tamamlama durumuna göre filtreleyebilir ve raporları Excel ve PDF formatlarında oluşturabilir. Uygulama, bildirimler ve kullanıcı dostu bir arayüz ile üretkenliği artırır.
+
+
+## Özellikler
+- **Kullanıcı Kimlik Doğrulama**: Şifrelenmiş parolalarla güvenli giriş.
+- **Görev Yönetimi**: Görev oluşturma, güncelleme, silme ve paylaşma.
+- **Yorumlar**: Görevlere yorum ekleme ve görüntüleme.
+- **Etiketleme**: Görevleri etiketlere göre filtreleme.
+- **Raporlar**: Görevleri Excel ve PDF formatlarına dışa aktarma.
+- **Bildirimler**: Görev hatırlatmaları için bildirim alma.
+- **Kullanıcı Dostu Arayüz**: Basit ve sezgisel tasarım.
