@@ -70,3 +70,40 @@ Görev Yöneticisi Uygulaması, görevleri etkili bir şekilde yönetmek için t
 - **Raporlar**: Görevleri Excel ve PDF formatlarına dışa aktarma.
 - **Bildirimler**: Görev hatırlatmaları için bildirim alma.
 - **Kullanıcı Dostu Arayüz**: Basit ve sezgisel tasarım.
+
+## Kurulum
+
+1. **Depoyu Klonlayın**
+- git clone https://github.com/yourusername/taskmanager.git
+2. **Projeyi Açın**
+- Visual Studio'da projeyi açın.
+3. **NuGet Paketlerini Geri Yükleyin** 
+- Tools -> NuGet Package Manager -> Manage NuGet Packages for Solution yolunu izleyin.
+- Gerekli paketleri geri yüklemek için Restore düğmesine tıklayın.
+4. **Projeyi Derleyin**
+- Tüm bağımlılıkların doğru bir şekilde ayarlandığından emin olmak için çözümü derleyin.
+5. **Veritabanı Kurulumu**
+- TaskManagerDB adında bir veritabanı oluşturun.
+- Gerekli tabloları oluşturmak için Database klasöründe sağlanan SQL komut dosyalarını çalıştırın.
+
+## Kullanım
+1. **Uygulamayı Çalıştırın**
+- Visual Studio'dan uygulamayı başlatmak için F5 tuşuna basın veya Start Debugging yapın.
+2. **Giriş Yapın**
+- Telefon numaranızı ve şifrenizi kullanarak giriş yapın.
+3. **Görevleri Yönetin**
+- Arayüzü kullanarak görev ekleyin, güncelleyin, silin ve paylaşın.
+4. **Görevleri Filtreleyin**
+- Görevleri etiketlere veya tamamlama durumuna göre görüntülemek için filtre seçeneklerini kullanın.
+5. **Yorum Ekleyin**
+- Daha iyi işbirliği için görevlere yorum ekleyin.
+6. **Rapor Oluşturun**
+- Raporlama amacıyla görevleri Excel veya PDF formatlarına dışa aktarın.
+
+## Katkıda Bulunma
+1. Depoyu Çatallayın (Fork)
+2. Bir Özellik Dalı Oluşturun
+
+
+## Lisans
+- Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
