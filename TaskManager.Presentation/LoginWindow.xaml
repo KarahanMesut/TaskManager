@@ -7,9 +7,9 @@
             <StackPanel >
                 <TextBlock Text="Kullanıcı Girişi" FontSize="20" FontWeight="Bold" Margin="0,0,0,20" TextAlignment="Center"/>
                 <TextBlock Text="Kullanıcı Adı" Margin="0,0,0,5" FontSize="14" FontWeight="Bold"/>
-                <TextBox x:Name="phoneTextBox" Margin="0,0,0,15" Height="30" Padding="5" MaxLength="10" Text="5427899516"/>
+                <TextBox x:Name="phoneTextBox" Margin="0,0,0,15" Height="30" Padding="5" MaxLength="10" Text=""/>
             <TextBlock Text="Parola" Margin="0,0,0,5" FontSize="14" FontWeight="Bold"/>
-            <PasswordBox x:Name="passwordBox" Margin="0,0,0,20" Height="30" Padding="5" Password="9279443030aZ"/>
+            <PasswordBox x:Name="passwordBox" Margin="0,0,0,20" Height="30" Padding="5" Password=""/>
             <Button Content="Giriş Yap" Click="LoginButton_Click" Width="100" HorizontalAlignment="Center" Height="25" Cursor="Hand" 
                     Background="#007ACC" Foreground="White" FontSize="14" Padding="10,5" BorderThickness="0" />
             </StackPanel>
